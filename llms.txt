@@ -1,0 +1,20 @@
+# Alttos.ai Brand Manual
+> Single source of truth for visual identity, design tokens, and voice across the Alttos ecosystem.
+> Stack: shadcn/ui, Tailwind CSS, Inter font, React/Next.js dashboards.
+
+BRAND.md: Full brand manual — start here for a complete picture
+sections/01-marca.md: Logo rules, tagline, brand values, geographic focus
+sections/02-tokens-primitivos.md: Raw hex color palette, typography weights, spacing/radius tokens
+sections/03-tokens-shadcn.md: shadcn/ui globals.css — dark mode (.dark) and light mode (:root) CSS variables including chart tokens
+sections/04-componentes.md: Button variants, badge/pill patterns, card types, input styling — with Tailwind class names
+sections/05-layout.md: Dashboard app shell (topbar + sidebar + content), grid patterns, breakpoints, typography scale
+sections/06-voz.md: Voice and tone, official module names (Alttos Hub/Mind/Channels/Finance/Data), standard UI copy in Spanish
+
+## Key facts for AI models
+- Primary accent: teal #14B8A6 (dark) / #0D9488 (light) — maps to shadcn --primary
+- Secondary accent: indigo #6366F1 — maps to shadcn --accent
+- Font: Inter Display (headings) + Inter (body) — local WOFF2, weights 400/500/600/700
+- Dark mode: always on #030303 base. Light mode: #F8FAFC base.
+- All dashboards use shadcn/ui. Apply sections/03-tokens-shadcn.md to globals.css.
+- Topbar always uses dark background (#0E0E10) in both modes — white logo renders correctly.
+- Module naming pattern: "Alttos [English noun]" (e.g. Alttos Finance, not Alttos Finanzas)
