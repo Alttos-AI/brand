@@ -2,18 +2,14 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <!-- Created with Vectornator (http://vectornator.io/) -->
 <svg height="68px" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="700 250 2000 1900" width="68px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-<defs>
-<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="1887.06" id="Filter" width="1918.16" x="726.328" y="248.585">
-<feGaussianBlur in="SourceGraphic" result="Blur" stdDeviation="2.05451"/>
-</filter>
-</defs>
+<defs></defs>
 <style>
     .fill { fill: #fff; }
     .stroke { stroke: #303030; }
     .stroke-width { stroke-width: 34; }
 </style>
 <g id="Layer-1">
-<g filter="url(#Filter)" opacity="0.998077">
+<g>
 <path d="M1689.73 1095.24C1689.73 1081.6 1697.04 1069 1708.88 1062.24L2100.85 838.387C2126.18 823.919 2157.7 842.212 2157.7 871.385L2157.7 1274.44C2157.7 1288.1 2150.36 1300.71 2138.49 1307.46L1746.52 1530.59C1721.19 1545.01 1689.73 1526.72 1689.73 1497.57L1689.73 1095.24Z" class="fill stroke stroke-width" fill-rule="nonzero" opacity="1" stroke-linecap="butt" stroke-linejoin="round" />
 <path d="M1708.58 1062.41C1696.9 1069.08 1682.56 1069.08 1670.87 1062.4L1292.5 846.02C1266.9 831.381 1267 794.431 1292.68 779.938L1670.78 566.578C1682.08 560.199 1695.85 560.031 1707.31 566.13L2096.89 773.547C2123.29 787.606 2123.85 825.252 2097.87 840.087L1708.58 1062.41Z" class="fill stroke stroke-width" fill-rule="nonzero" opacity="1" stroke-linecap="butt" stroke-linejoin="round" />
 <path d="M2157.7 827.728C2157.7 814.224 2164.86 801.735 2176.52 794.92L2565.17 567.758C2590.51 552.951 2622.35 571.222 2622.35 600.565L2622.35 1000.81C2622.35 1014.28 2615.23 1026.74 2603.62 1033.56L2214.97 1262.26C2189.64 1277.17 2157.7 1258.9 2157.7 1229.51L2157.7 827.728Z" class="fill stroke stroke-width" fill-rule="nonzero" opacity="1" stroke-linecap="butt" stroke-linejoin="round" />
